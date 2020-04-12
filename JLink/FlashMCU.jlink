@@ -1,0 +1,5 @@
+loadbin build\stm32f103-base-freeRTOS.bin, 0x00
+verifybin build\stm32f103-base-freeRTOS.bin, 0x00
+r
+g
+q
